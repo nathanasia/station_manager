@@ -1,0 +1,11 @@
+7   #how many buses to create
+2   #time of sleeping
+1   #manouvra
+2   #katastash stathmou
+4   #statistika
+2   #median
+2   #capacity for VOR's median
+3   #capacity for ASK's median
+4   #capacity for PEL's median
+
+
