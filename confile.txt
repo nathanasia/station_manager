@@ -1,11 +1,11 @@
-7   #how many buses to create
-2   #time of sleeping
-1   #manouvra
-2   #katastash stathmou
-4   #statistika
-2   #median
-2   #capacity for VOR's median
-3   #capacity for ASK's median
-4   #capacity for PEL's median
+7   #number of buses
+2   #time a bus is allowed to parking
+1   #time limit that a bus can wait until an empty parking space is available
+2   #the frequency that the controller prints the situation of the bus stations
+4   #the frequency that the controller prints the statistics of the bus stations
+2   #number of medians on bus station
+2   #capacity for VOR's median (North Greece)
+3   #capacity for ASK's median (Attica, Central Greece)
+4   #capacity for PEL's median (Pelloponisos)
 
 
